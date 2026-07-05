@@ -688,7 +688,6 @@ PRODUCT_PACKAGES += \
     libmm-color-convertor \
     libmpbase \
     libnanopb \
-    libnotifyaudiohal \
     libofflinedump \
     libopestriping \
     libos \
